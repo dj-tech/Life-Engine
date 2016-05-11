@@ -15,6 +15,6 @@
 *.php
 *.js
 
-pkg/
+ui/
 src/
 bin/
