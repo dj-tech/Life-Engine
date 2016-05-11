@@ -1,0 +1,6 @@
+{
+  "name": "Life-engine",
+  "tagline": "An engine that simulates the life of a human + minetest + my file",
+  "body": "Life-Engine\r\n===========\r\n\r\nAn engine that simulates the life of a human. \r\n\r\nLife Engine is an engine that allows you to create humans and manage them.\r\nYou can manage his/her friends and family and also make decisions with the human.\r\nIn the future, nature and an economical system will be added to the engine aswell.\r\n\r\nSomething that is also gonna be added is a fully functional brain. \r\nYou are gonna be able to teach the brain things and the brain is gonna recognize stuff.\r\n\r\nThe human can have different religions and the brain of the human have cells.\r\nIf there are no cells in the brain, the person simply dies. If the person \r\ndoesn't have a lot of brain cells, the person might remain retarded.\r\nThe point of the brain that it is gonna be realistic.\r\n\r\n+ minetest + my file \r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
